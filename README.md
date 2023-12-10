@@ -70,7 +70,7 @@ The downloaded files can be found in the application's download directory, as sh
 
 [Reference 4](https://www.w3schools.com/html/html_css.asp)
 
-## Link of demo video: [Group_3 Demo Video](https://youtu.be/wzFANjqGJAo)
+## Link of demo video: [Group_3 Demo Video](https://youtu.be/fsUfYdKUiR0)
 
 ## Credited to :
 > **Group 03**
