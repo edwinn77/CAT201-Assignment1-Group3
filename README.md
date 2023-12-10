@@ -7,14 +7,17 @@ The Txt/PDF Converter is a simple yet powerful tool that allows users to convert
 # Picture Guideline
 
 ![Picture1](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/19ce3c7e-cd93-40eb-98a8-65f7640c5162)
+
 After running the File Converter web application, we will be directed to the application convert space shown in the picture above.
 The converter has two operations, converting PDF files to txt files or converting txt files to PDF files, and clicking on the button will allow us to choose the operation we want.
 In the footer of the main page, there is an "About us" which the user can get to know the web developers.
 
 ![Picture2](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/6b165265-527b-49bd-93dd-be7f9f522e07)
+
 The image above shows background and name of developers.
 
 ![Picture3](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/169931c9-e928-49d5-b288-2519132ca577)
+
 After clicking the "Convert PDF to Text" button, we will be taken to the page shown above.
 We can click the "Choose Files" button to select one or more files to upload and convert them from PDF to .txt documents.
 Then, press the Convert button and the PDF files will be converted to txt files.
