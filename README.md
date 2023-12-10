@@ -24,31 +24,39 @@ Then, press the Convert button and the PDF files will be converted to txt files.
 However, if you accidentally choose the wrong operation, don't worry! You can also press the "Back to Home" button at the top right of the page to reselect the operation you want.
 
 ![Picture4](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/cbb0c8ce-06fd-4c8f-8ece-f8b800ea0a15)
+
 After uploading the pdf file, the file name and size will be displayed in the table below.
 
 ![Picture5](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/8a04c932-62ff-41c6-9f39-c1f0b3ec4716)
+
 After clicking the green "Convert" button, the conversion of the file type is complete, and the converted file will be displayed in the Download TXT files table, available for download.
 
 ![Picture6](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/5ad24f93-4745-4a3d-a455-4d181255e19f)
+
 The downloaded file can be found in the application's download directory as shown above.
 
 ![Picture7](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/0d0577e7-372b-4fc2-9b35-5eeff33e6f04)
+
 Once the conversion is complete, we can go back to the home page by clicking on the green "Back to Home" button.
 Now, let's try the TXT to PDF conversion by clicking the right button!
 
 ![Picture8](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/ab63dfc5-04bd-482d-b3c6-af50360fb509)
+
 After clicking the "Convert Text to PDF" button, we will enter the page shown above.
 We can click the "Choose Files" button to select one or more files to upload and convert them from txt files to pdf files.
 Then, press the Convert button and the txt file will be converted to pdf file.
 However, if you accidentally choose the wrong operation, don't worry! You can also press the "Back to Home" button at the top right of the page to reselect the operation you want.
 
 ![Picture9](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/84645862-3e80-4cd6-9ec0-8ce8bf92ab76)
+
 After uploading a txt file, the file name and size will be shown in the table below.
 
 ![Picture10](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/1b2db007-c2aa-4e89-b4a6-c44af818cd79)
+
 After clicking the green "Convert" button, the conversion of the file type is completed, and the converted file will be displayed in the Download PDF files table for downloading.
 
 ![Picture11](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/a2b7b323-4d62-4b70-8722-2c4b6550738c)
+
 The downloaded files can be found in the application's download directory, as shown above.
 
 # Creditted to :
