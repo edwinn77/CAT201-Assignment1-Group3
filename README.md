@@ -1,3 +1,9 @@
+# Txt/PDF Converter
+
+## Overview
+
+The Txt/PDF Converter is a simple yet powerful tool that allows users to convert documents between PDF and plain text formats. This project aims to provide a convenient and efficient way to handle document conversion tasks. The website is super user-friendly to use, and even allows user to convert multiple plain text format documents and PDF documents. The demonstration link will be attached below, where we demonstrate how we ran the code by including setting up linux apache webserver using docker as well, and demonstrating the website to show the functionality of our website.
+
 # Picture Guideline
 
 ![Picture1](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/19ce3c7e-cd93-40eb-98a8-65f7640c5162)
@@ -41,3 +47,15 @@ After clicking the green "Convert" button, the conversion of the file type is co
 
 ![Picture11](https://github.com/Jinglong1302/CAT201-Assignment1-Group03/assets/116943589/a2b7b323-4d62-4b70-8722-2c4b6550738c)
 The downloaded files can be found in the application's download directory, as shown above.
+
+# Creditted to :
+> Group 03
+> Ang Chin Zhen
+>
+> Edwin Chia Yi Yang
+> 
+> Hong JingLong
+> 
+> Ong Hsien Hung
+> 
+---
