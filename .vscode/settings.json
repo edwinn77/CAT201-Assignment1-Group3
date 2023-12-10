@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src", "lib"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:/xampp(1)/htdocs/OfficialCat2/OfficialCat/lib/pdfbox-app-2.0.30.jar"
+    ]
+}

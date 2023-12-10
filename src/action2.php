@@ -35,7 +35,7 @@
     </table>
     <!-- End of table -->
 
-    <a href="index.html" class="back-button">Back to Home</a>
+    <a href="index2.0.html" class="back-button">Back to Home</a>
 
     <script>
         window.addEventListener('load', function() {

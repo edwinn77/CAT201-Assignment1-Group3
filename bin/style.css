@@ -24,7 +24,7 @@ body {
   color: #2E2F2F;
   text-align: center;
   letter-spacing: 0.5em;
-  background-color: #FFFEFB;
+  background-color: #ffbf00;
   margin: -18px -20px 18px -20px;
   padding: 30px 10px 16px 16px;
   border-radius: 30px;
@@ -386,13 +386,10 @@ h4 {
 }
 
 .about-section {
-    background-color: #fff;
-    padding: 20px;
-    margin: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    background-color: rgb(207, 235, 241);
-    border-radius: 15px;
-  }
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
 
 .about-section img {
   max-width: 300px;
@@ -407,8 +404,6 @@ h4 {
 .description {
   margin-top: 20px;
   font-size: 16px;
-  background-color: rgb(164, 232, 246);
-  border-radius: 7px;
 }
 
 /* Group Members */

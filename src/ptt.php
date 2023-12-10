@@ -56,7 +56,7 @@
                 if (move_uploaded_file($tmp_name, $target_file)) {
                     $outputFilePath = $output_dir . basename($target_file, ".pdf") . ".txt";
 
-                    $jar_path = "D:\Users\Chin Zhen Ang\Desktop\New folder\htdocs\pdfbox-app-2.0.30.jar";
+                    $jar_path ="D:\CAT201\Group Project\Assignment 1\pdfbox-app-2.0.30.jar";
                     $command = escapeshellcmd("java -jar \"$jar_path\" ExtractText \"$target_file\" \"$outputFilePath\"");
 
                     // Execute the command
@@ -94,7 +94,7 @@
             echo "</table>";
         }
         echo "<br>";
-        echo "<a href='index.html' class='back-button' >Return to Home</a>";
+        echo "<a href='index2.0.html' class='back-button' >Return to Home</a>";
         ?>
         </div>
     </main>

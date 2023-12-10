@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <title>Convert PDF to TXT</title>
-    <link rel="stylesheet" href="style.css"> <!-- Link to your CSS file -->
+    <link rel="stylesheet" href="style.css"> 
 </head>
 <body>
     <h1 class="titleheader">PDF to TXT Converter</h1>
-    <div class="container" >
+    <div class="container">
         <form id="pdfToTxtForm" action="ptt.php" method="post" enctype="multipart/form-data">
             <label for="pdfFile">Choose PDF file(s):</label><br>
             <input type="file" id="pdfFile" name="pdfFile[]" accept=".pdf" multiple >
-            <!--<span id="file-chosen">No file chosen</span><br>--> 
+
             <button type="submit">Convert</button>
         </form>
     </div>
     <p class="text3">Select more than one file when browsing for files to upload multiple files (max 3)</p>
-        <!-- Table to display uploaded files -->
+       
         <table>
             <thead>
                 <tr>
@@ -29,10 +29,9 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <!-- Other empty rows if needed -->
+                
             </tbody>
         </table>
-        <!-- End of table -->
 
         <a href="index2.0.html" class="back-button">Back to Home</a>
     

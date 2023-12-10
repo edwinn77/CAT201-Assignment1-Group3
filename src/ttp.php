@@ -50,7 +50,7 @@
                     $pdfFilePath = $output_dir . pathinfo($target_file, PATHINFO_FILENAME) . ".pdf";
 
                     // Corrected paths for the PDFBox command
-                    $jar_path = "D:\Users\Chin Zhen Ang\Desktop\New folder\htdocs\pdfbox-app-2.0.30.jar";
+                    $jar_path = "D:\CAT201\Group Project\Assignment 1\pdfbox-app-2.0.30.jar";
                     $input_file = $target_file;  // Use the uploaded text file as input
                     $output_file = $pdfFilePath;
 
@@ -93,7 +93,7 @@
 
         }
         echo "<br>";
-        echo "<a href='index.html' class='back-button'>Return to Home</a>";
+        echo "<a href='index2.0.html' class='back-button'>Return to Home</a>";
         ?>
         </div>
     </main>
