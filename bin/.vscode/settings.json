@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Users\\Chin Zhen Ang\\Documents\\USM CS\\Y2S1\\CAT201\\RealAssignment1\\pdfbox-app-2.0.30.jar",
+        "d:\\Users\\Chin Zhen Ang\\Desktop\\New folder\\htdocs\\pdfbox-app-2.0.30.jar"
+    ]
+}
