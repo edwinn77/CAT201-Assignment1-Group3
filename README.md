@@ -63,8 +63,11 @@ The downloaded files can be found in the application's download directory, as sh
 
 ## Reference
 [Reference 1](https://docs.docker.com/get-started/)
+
 [Reference 2](https://code.visualstudio.com/docs/languages/php)
+
 [Reference 3](https://www.mygreatlearning.com/blog/top-essential-docker-commands/)
+
 [Reference 4](https://www.w3schools.com/html/html_css.asp)
 
 ## Link of demo video: [Group_3 Demo Video](https://youtu.be/wzFANjqGJAo)
